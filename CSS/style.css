@@ -34,3 +34,22 @@ h1{
 .emphasis{
     background-color: #ffff00;
 }
+
+
+
+th{
+    text-align: left;
+    background-color: #20a9e5;
+    color: white;
+}
+
+td{
+    width: 20%;
+    
+}
+
+.important-section{
+    background-color: #b1e5f2;
+    border: hidden;
+
+}
