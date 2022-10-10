@@ -3,15 +3,16 @@
 }
 
 .banner{
-    height: 11em;
+    height: 100px;
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
-    position: relative;
+    background-size: 385px;
+    
 }
 
 .logo{
-   width: 15%;
-   padding-top: 4em;
+   width: 200px;
+   padding-top: 2.5em;
 }
 
 h1{
