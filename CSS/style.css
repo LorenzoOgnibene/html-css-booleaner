@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+.banner{
+    height: 11em;
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    position: relative;
+}
+
+.logo{
+   width: 15%;
+   padding-top: 4em;
+}
+
+h1{
+    font-size: 3em;
+}
+.grey-text{
+    color: #858585;
+}
+
+.ciano-text{
+    color: #3db4e9;
+}
